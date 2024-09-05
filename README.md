@@ -31,7 +31,6 @@ This repository contains code for performing power analysis to estimate the mini
 1. **Run the Power Analysis Script:**
 
    To perform power analysis, execute the script using Google Colab and update second block with baseline conversion and daily samples data.
-   ```
 
 2. **View Results:**
 
