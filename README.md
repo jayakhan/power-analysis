@@ -1,3 +1,5 @@
+<a target="_blank" href="https://colab.research.google.com/github/jayakhan/power-analysis/blob/main/power_analysis.ipynb">
+
 # Test Power Analysis Code
 
 ## Overview
