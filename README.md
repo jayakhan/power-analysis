@@ -10,8 +10,8 @@ This repository contains code for performing power analysis to estimate the mini
 
 ### Prerequisites
 
-- Python 3.6 or higher
-- Required libraries: `numpy`, `scipy`, `matplotlib`
+- Python 3.9 or higher
+- Required libraries: `numpy`, `pandas`, `scipy`, `matplotlib`, `plotly 5.24`
 
 ### Installation
 
